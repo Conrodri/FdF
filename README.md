@@ -12,6 +12,6 @@ FDF is a 42 Project to learn about 3d programming. The program takes a map as pa
 
 ##Pictures
 
-![](isometric.png.png)
+![](png/isometric.png)
 
-![](2d.png.png)
+![](png/2d.png)
