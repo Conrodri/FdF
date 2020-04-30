@@ -8,9 +8,10 @@ FDF is a 42 Project to learn about 3d programming. The program takes a map as pa
 
 ##How to use ?
 
-```
-$> make
-$> ./fdf maps.fdf
-```
+![](png/how2use.png)
 
 ##Pictures
+
+![](isometric.png.png)
+
+![](2d.png.png)
